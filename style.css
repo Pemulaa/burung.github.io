@@ -1,0 +1,17 @@
+body {
+  min-height: 3000px;
+}
+.img {
+  border-radius: 30%;
+}
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #96e9e2;
+}
+#jenis {
+  background-color: #96e9e2;
+  img
+}
+section{
+  padding-top: 10rem;
+}
